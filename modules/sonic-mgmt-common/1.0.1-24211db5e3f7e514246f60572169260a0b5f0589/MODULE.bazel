@@ -1,6 +1,6 @@
 module(
     name = "sonic-mgmt-common",
-    version = "1.0.0-20afb37991752fb83f2f79cc3c9c3377636d34ce",
+    version = "1.0.1-24211db5e3f7e514246f60572169260a0b5f0589",
     bazel_compatibility = [
         ">=8.5.1",
         "<=8.5.1",
